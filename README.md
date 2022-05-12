@@ -1,1 +1,3 @@
-First,JS stores HTML inputs from the input box as variables specified with the QuerySelector.
+# Unix-Date-App
+This project interpretes various date formats and concerts all to the Unix date format of dating developed my programmers to make encoding much more easier
+
